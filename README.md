@@ -1,2 +1,3 @@
 # git_test
-First step into GitHub
+My first GitHub repo!
+Hello Odin!
